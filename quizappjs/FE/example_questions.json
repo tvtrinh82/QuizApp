@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Trong Python, từ khóa nào dùng để định nghĩa một hàm?",
+    "options": {
+      "A": "def",
+      "B": "function",
+      "C": "fun",
+      "D": "define"
+    },
+    "correctOption": "A"
+  },
+  {
+    "content": "Thẻ HTML nào dùng để tạo liên kết siêu văn bản (hyperlink)?",
+    "options": {
+      "A": "<link>",
+      "B": "<a>",
+      "C": "<href>",
+      "D": "<hyperlink>"
+    },
+    "correctOption": "B"
+  },
+  {
+    "content": "Ai là người đầu tiên đặt chân lên Mặt Trăng?",
+    "options": {
+      "A": "Yuri Gagarin",
+      "B": "Neil Armstrong",
+      "C": "Buzz Aldrin",
+      "D": "Michael Collins"
+    },
+    "correctOption": "B"
+  },
+  {
+    "content": "Kết quả của phép tính 2 + 3 * 4 là bao nhiêu?",
+    "options": {
+      "A": "20",
+      "B": "14",
+      "C": "24",
+      "D": "9"
+    },
+    "correctOption": "B"
+  }
+]
