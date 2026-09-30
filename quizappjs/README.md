@@ -44,3 +44,10 @@ Dự án này bao gồm hai phần: Backend (Java Spring Boot) và Frontend (Nod
    npm run dev
    ```
 4. Frontend sẽ chạy và hiển thị link truy cập (thường là `http://localhost:5173`).
+
+
+tài khoản admin admintrinh82@gmail.com
+mật khẩu admintrinh82@gmail.com
+
+tài khoản client tuan@gmail.com
+mật khẩu tuan@gmail.com
